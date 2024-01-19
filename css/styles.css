@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
 :root{
     /* defined colours */
     --SLATE: #434455;
@@ -89,6 +94,7 @@ img{
 .logo-header .logo-color{color: var(--NAVY-BLUE);}
 .logo-footer .logo-color{color: var(--CLOUD);}
 .header .link-nav{
+    display: inline-block;
     color: var(--NAVY-BLUE);
     font-weight: 500;
     letter-spacing: 0.02em;
@@ -190,6 +196,7 @@ img{
     line-height: 1.07;
     letter-spacing: 1.12px;
     max-width: 496px;
+    padding-bottom: 48px;
     margin-left: auto;
     margin-right: auto;
     
@@ -281,6 +288,7 @@ img{
 }
 .studio-section-fourth .item-desc{
     text-align: center;
+    margin-bottom: 8px;
 }
 
 .studio-section-fourth .social-icon{
