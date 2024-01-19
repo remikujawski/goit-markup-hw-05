@@ -522,7 +522,7 @@ button.modal-close:focus{
     border: none;
 }
 
-button.modal-close:hover .modal-close-icon,
+/* button.modal-close:hover .modal-close-icon,
 button.modal-close:focus .modal-close-icon{
     fill: #ffffff;
-}
+} */
