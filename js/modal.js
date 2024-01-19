@@ -1,1 +1,1 @@
-echo 'MODAL WINDOW';
+console.log('modal Window');
