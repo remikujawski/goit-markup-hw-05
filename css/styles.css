@@ -516,13 +516,9 @@ img{
 }
 
 
-button.modal-close:hover,
-button.modal-close:focus{
+.modal-close:hover,
+.modal-close:focus{
     background-color: #404bbf;
     border: none;
 }
 
-button.modal-close:hover .modal-close-icon,
-button.modal-close:focus .modal-close-icon{
-    fill: #ffffff;
-}
